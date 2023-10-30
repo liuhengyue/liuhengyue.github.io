@@ -26,7 +26,7 @@ main:
 #    page: https://class-il.mpi-inf.mpg.de/mnemonics/
 #    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
 #    notes: Oral Presentation
-    image: ./assets/img/JEDE.png
+    image: ./assets/img/JEDE.jpg
 
   - title: "Fully Convolutional Scene Graph Generation"
     authors: <strong>Hengyue Liu</strong>, Ning Yan, Masood Mortazavi, Bir Bhanu
