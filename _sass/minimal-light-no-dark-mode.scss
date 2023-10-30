@@ -161,7 +161,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 0%;
     }
 
       .image.avatar:before {
@@ -169,7 +169,7 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
+        border-radius: 0%;
         width: 45%;
         padding: 20px;
         // border: 1px solid #ddd;
@@ -421,7 +421,7 @@ footer {
 
 
    .image.avatar img {
-        border-radius: 100%;
+        border-radius: 0%;
         width: 117px;
         padding:20px;
       }
@@ -477,7 +477,7 @@ footer {
   }
 
   .image.avatar img {
-      border-radius: 100%;
+      border-radius: 0%;
       width: 95px;
       padding:20px;
   }
