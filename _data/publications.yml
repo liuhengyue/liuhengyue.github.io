@@ -12,6 +12,7 @@ main:
     conference_short: MVA
     conference: Machine Vision and Applications, 2022.
     pdf: ./assets/files/Dynamically_throttleable_neural_networks.pdf
+    demo: https://player.vimeo.com/video/432628321?h=dd1eb87f23
 #    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
 #    page: https://class-il.mpi-inf.mpg.de/mnemonics/
 #    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -23,7 +24,6 @@ main:
     conference: IEEE TCSVT, 2022.
     pdf: ./assets/files/JEDE_Universal_Jersey_Number_Detector_for_Sports.pdf
 #    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
 #    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
 #    notes: Oral Presentation
     image: ./assets/img/JEDE.jpg
