@@ -1,22 +1,111 @@
 main:
+  - title: "RepSGG: Novel Representations of Entities and Relationships for Scene Graph Generation"
+    authors: <strong>Hengyue Liu</strong>, Bir Bhanu
+    conference_short: arXiv
+    conference: arXiv, 2023.
+    notes: Submitted to TPAMI
+    pdf: https://arxiv.org/abs/2309.03240
+    image: ./assets/img/teaser1.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Dynamically Throttleable Neural Networks"
+    authors: <strong>Hengyue Liu</strong>, Samyak Parajuli, Jesse Hostetler, Sek Chai, Bir Bhanu
+    conference_short: MVA
+    conference: Machine Vision and Applications, 2022.
+    pdf: ./assets/files/Dynamically_throttleable_neural_networks.pdf
+#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/teaser2.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "JEDE: Universal Jersey Number Detector for Sports"
+    authors: <strong>Hengyue Liu</strong>, Bir Bhanu
+    conference_short: TCSVT
+    conference: IEEE TCSVT, 2022.
+    pdf: ./assets/files/JEDE_Universal_Jersey_Number_Detector_for_Sports.pdf
+#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    notes: Oral Presentation
+    image: ./assets/img/JEDE.png
+
+  - title: "Fully Convolutional Scene Graph Generation"
+    authors: <strong>Hengyue Liu</strong>, Ning Yan, Masood Mortazavi, Bir Bhanu
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    conference: CVPR, 2021.
+    pdf: https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Fully_Convolutional_Scene_Graph_Generation_CVPR_2021_paper.pdf
+#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/fcsgg.png
+
+  - title: "Pose-Guided R-CNN for Jersey Number Recognition in Sports"
+    authors: <strong>Hengyue Liu</strong>, Bir Bhanu
+    conference_short: CVPRW
+    conference: CVPRW, 2023.
+    pdf: https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Liu_Pose-Guided_R-CNN_for_Jersey_Number_Recognition_in_Sports_CVPRW_2019_paper.pdf
+    image: ./assets/img/pgrcnn.png
+
+  - title: "Early Wildfire Smoke Detection in Videos"
+    authors: Taanya Gupta, <strong>Hengyue Liu</strong>, Bir Bhanu
+    conference_short: ICPR
+    conference: ICPR, 2021.
+    pdf: ./assets/files/Early_Wildfire_Smoke_Detection_in_Videos.pdf
+    image: ./assets/img/smoke.png
+
+  - title: "Human Embryonic Stem Cell Classification: Random Network with Autoencoded Feature Extractor"
+    authors: Benjamin X Guan, Bir Bhanu, Rajkumar Theagarajan, <strong>Hengyue Liu</strong>, Prue Talbot, Nikki Weng
+    conference_short: JBO
+    conference: Journal of Biomedical Optics, 2021.
+    pdf: ./assets/files/Human-embryonic_stem_cell_classification_random_network_with_autoencoded_feature_extractor.pdf
+    image: ./assets/img/cell.png
+
+#@article{liu2022jede,
+#  title={{JEDE: Universal Jersey Number Detector for Sports}},
+#  author={Liu, Hengyue and Bhanu, Bir},
+#  journal={IEEE TCSVT},
+#  year={2022},
+#  publisher={IEEE},
+#url={https://ieeexplore.ieee.org/abstract/document/9810931},
+#author+an =	 {1=highlight}
+#}
+#
+#@article{liu2021fully,
+#  title={{Fully Convolutional Scene Graph Generation}},
+#  author={Liu, Hengyue and Yan, Ning and Mortazavi, Masood and Bhanu, Bir},
+#  journal={CVPR},
+#  year={2021},
+#url={https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Fully_Convolutional_Scene_Graph_Generation_CVPR_2021_paper.pdf},
+#  author+an =	 {1=highlight},
+#    note = {\color{red}{Oral}}
+#}
+#
+#@article{liu2019pose,
+#  title={{Pose-Guided R-CNN for Jersey Number Recognition in Sports}},
+#  author={Liu, Hengyue and Bhanu, Bir},
+#  journal={CVPRW},
+#  year={2019},
+#url={https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Liu_Pose-Guided_R-CNN_for_Jersey_Number_Recognition_in_Sports_CVPRW_2019_paper.pdf},
+#  author+an =	 {1=highlight}
+#}
+#
+#@article{gupta2021early,
+#  title={{Early Wildfire Smoke Detection in Videos}},
+#  author={Gupta, Taanya and Liu, Hengyue and Bhanu, Bir},
+#  journal={ICPR},
+#  year={2021},
+#url={https://ieeexplore.ieee.org/document/9413231},
+#author+an =	 {2=highlight}
+#}
+#
+#@article{guan2021human,
+#  title={{Human Embryonic Stem Cell Classification: Random Network with Autoencoded Feature Extractor}},
+#  author={Guan, Benjamin X and Bhanu, Bir and Theagarajan, Rajkumar and Liu, Hengyue and Talbot, Prue and Weng, Nikki},
+#  journal={Journal of Biomedical Optics},
+#  year={2021},
+#url={https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-26/issue-05/052913/Human-embryonic-stem-cell-classification--random-network-with-autoencoded/10.1117/1.JBO.26.5.052913.full},
+#author+an =	 {4=highlight},
+#}
+
+
+

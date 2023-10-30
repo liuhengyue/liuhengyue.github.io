@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a final-year Ph.D. candidate in Electrical Engineering at *University of California, Riverside (UCR)*. I work under the supervision of [Dr. Bir Bhanu](https://scholar.google.com/citations?user=AhRGIcwAAAAJ&hl=en) at Visualization and Intelligent Systems Laboratory ([VISLab](https://www.vislab.ucr.edu/)). Before doing my Ph.D., I got my M.S. from *University of Southern California (USC)*, and B.S. from *Beijing University of Posts and Telecommunications (BUPT)*. 
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Ultimate goal: build a large unified multimodal model for open-world visual understanding**
+- Multimodal Models
+- Panoptic Scene Graph Generation
+- Open World Learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** Looking for full-time / internship jobs.
 
 {% include_relative _includes/publications.md %}
 
