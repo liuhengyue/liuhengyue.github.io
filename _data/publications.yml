@@ -22,8 +22,6 @@ main:
     conference: IEEE TCSVT, 2022.
     pdf: ./assets/files/JEDE_Universal_Jersey_Number_Detector_for_Sports.pdf
     code: https://github.com/liuhengyue/jede
-#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    notes: Oral Presentation
     image: ./assets/img/JEDE.jpg
 
   - title: "Fully Convolutional Scene Graph Generation"
@@ -32,8 +30,6 @@ main:
     conference: CVPR, 2021.
     pdf: https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Fully_Convolutional_Scene_Graph_Generation_CVPR_2021_paper.pdf
     code: https://github.com/liuhengyue/fcsgg
-#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral
     image: ./assets/img/fcsgg.png
 
@@ -58,52 +54,6 @@ main:
     pdf: ./assets/files/Human-embryonic_stem_cell_classification_random_network_with_autoencoded_feature_extractor.pdf
     image: ./assets/img/cell.png
 
-#@article{liu2022jede,
-#  title={{JEDE: Universal Jersey Number Detector for Sports}},
-#  author={Liu, Hengyue and Bhanu, Bir},
-#  journal={IEEE TCSVT},
-#  year={2022},
-#  publisher={IEEE},
-#url={https://ieeexplore.ieee.org/abstract/document/9810931},
-#author+an =	 {1=highlight}
-#}
-#
-#@article{liu2021fully,
-#  title={{Fully Convolutional Scene Graph Generation}},
-#  author={Liu, Hengyue and Yan, Ning and Mortazavi, Masood and Bhanu, Bir},
-#  journal={CVPR},
-#  year={2021},
-#url={https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Fully_Convolutional_Scene_Graph_Generation_CVPR_2021_paper.pdf},
-#  author+an =	 {1=highlight},
-#    note = {\color{red}{Oral}}
-#}
-#
-#@article{liu2019pose,
-#  title={{Pose-Guided R-CNN for Jersey Number Recognition in Sports}},
-#  author={Liu, Hengyue and Bhanu, Bir},
-#  journal={CVPRW},
-#  year={2019},
-#url={https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Liu_Pose-Guided_R-CNN_for_Jersey_Number_Recognition_in_Sports_CVPRW_2019_paper.pdf},
-#  author+an =	 {1=highlight}
-#}
-#
-#@article{gupta2021early,
-#  title={{Early Wildfire Smoke Detection in Videos}},
-#  author={Gupta, Taanya and Liu, Hengyue and Bhanu, Bir},
-#  journal={ICPR},
-#  year={2021},
-#url={https://ieeexplore.ieee.org/document/9413231},
-#author+an =	 {2=highlight}
-#}
-#
-#@article{guan2021human,
-#  title={{Human Embryonic Stem Cell Classification: Random Network with Autoencoded Feature Extractor}},
-#  author={Guan, Benjamin X and Bhanu, Bir and Theagarajan, Rajkumar and Liu, Hengyue and Talbot, Prue and Weng, Nikki},
-#  journal={Journal of Biomedical Optics},
-#  year={2021},
-#url={https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-26/issue-05/052913/Human-embryonic-stem-cell-classification--random-network-with-autoencoded/10.1117/1.JBO.26.5.052913.full},
-#author+an =	 {4=highlight},
-#}
 
 
 
