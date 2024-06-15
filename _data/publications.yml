@@ -1,9 +1,16 @@
 main:
+  - title: "Contrastive Language Video Time Pre-training"
+    authors: <strong>Hengyue Liu</strong>, Kyle Min, Hector A Valdez, Subarna Tripathi
+    conference_short: CVPRW
+    conference: CVPR EgoVis Workshop, 2024.
+    pdf: https://arxiv.org/pdf/2406.02631
+    image: ./assets/img/laviti.png
+
   - title: "RepSGG: Novel Representations of Entities and Relationships for Scene Graph Generation"
     authors: <strong>Hengyue Liu</strong>, Bir Bhanu
-    conference_short: arXiv
-    conference: arXiv, 2023.
-    notes: Submitted to TPAMI
+    conference_short: TPAMI
+    conference: IEEE TPAMI, 2024.
+#    notes: Submitted to TPAMI
     pdf: https://arxiv.org/abs/2309.03240
     image: ./assets/img/teaser1.png
 
