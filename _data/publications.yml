@@ -43,7 +43,7 @@ main:
   - title: "Pose-Guided R-CNN for Jersey Number Recognition in Sports"
     authors: <strong>Hengyue Liu</strong>, Bir Bhanu
     conference_short: CVPRW
-    conference: CVPRW, 2023.
+    conference: CVPRW, 2019.
     pdf: https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Liu_Pose-Guided_R-CNN_for_Jersey_Number_Recognition_in_Sports_CVPRW_2019_paper.pdf
     image: ./assets/img/pgrcnn.png
 
