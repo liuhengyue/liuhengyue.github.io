@@ -10,8 +10,7 @@ main:
     authors: <strong>Hengyue Liu</strong>, Bir Bhanu
     conference_short: TPAMI
     conference: IEEE TPAMI, 2024.
-#    notes: Submitted to TPAMI
-    pdf: https://arxiv.org/abs/2309.03240
+    pdf: ./assets/files/RepSGG.pdf
     image: ./assets/img/teaser1.png
 
   - title: "Dynamically Throttleable Neural Networks"
